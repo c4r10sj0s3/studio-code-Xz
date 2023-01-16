@@ -1,0 +1,22 @@
+El lenguaje entendido por una computadora se conoce como código 
+máquina. Consiste en secuencias de instrucciones básicas que el 
+procesador reconoce, codificadas como cadenas de números 1 y 0 
+(sistema binario). En los primeros tiempos de la computación se 
+programaba directamente en código máquina. Escribir programas 
+así resultaba demasiado complicado, también era difícil 
+entenderlos y mantenerlos una vez escritos. Con el tiempo, se 
+fueron desarrollando herramientas para facilitar el trabajo.
+
+Los primeros científicos que trabajaron en el área decidieron 
+reemplazar las secuencias de unos y ceros por mnemónicos, que 
+son abreviaturas en inglés de la función que cumple una 
+instrucción de procesador. Por ejemplo, para sumar se podría 
+usar la letra A de la palabra inglesa add (añadir). Crearon así 
+una familia de lenguajes de mayor nivel, que se conocen como 
+lenguaje ensamblador o simplemente ensamblador (en inglés, 
+assembly). Con el tiempo los ensambladores incorporaron 
+facilidades adicionales, pero siempre manteniendo una 
+correspondencia directa con las instrucciones de procesador. A 
+nivel conceptual, entonces, programar en ensamblador es muy 
+similar a hacerlo en lenguaje máquina, solo que de una forma más 
+amigable.
